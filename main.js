@@ -82,7 +82,7 @@ const {
 } = require("./src/lib/sticker");
 const deepai = require("deepai");
 const dia_day = JSON.parse(fs.readFileSync("./dia_dia.json"));
-const { ytDonlodMp3 } = require("./src/lib/api");
+const { ytDonlodMp3, ytPlayMp4 } = require("./src/lib/api");
 const {
   addCommands,
   checkCommands,
@@ -4929,7 +4929,7 @@ ${cidades}\n`);
         responder("segue esse carente ai\n\ninstagram.com/b_r_u_n_o76");
         break;
       case "gpbot":
-        responder("https://chat.whatsapp.com/HeMepOb2ltNIJPC8vXpgyI");
+        responder("https://tinyurl.com/mba4sd2v");
         break;    
       case "musicamenu":
         {
