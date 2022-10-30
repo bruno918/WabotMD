@@ -1,0 +1,230 @@
+{
+    "qz": [
+        {
+	 		"original": "TANJIRO",
+				"img": "https://telegra.ph/file/e32f7ed6ac9dd7f97188d.jpg",
+				"dica": "PERSONAGEM"
+				},
+				{
+				"original": "INOSUKE",
+				"img": "https://telegra.ph/file/ce644b1484a389a22f847.jpg",
+				"dica": "PERSONAGEM"
+				},
+				{
+				"original": "BAKI",
+				"img": "https://telegra.ph/file/8e90a4e212e66a47f9155.jpg",
+				"dica": "PERSONAGEM"
+				},
+				{
+								"original": "NAGATORO",
+				"img": "https://telegra.ph/file/dfa97e3fa219167107e82.jpg",
+				"dica": "PERSONAGEM"
+				},
+				{
+								"original": "SASUKE",
+				"img": "https://telegra.ph/file/261d78e56a8d85459e3f8.jpg",
+				"dica": "PERSONAGEM"
+				},
+				{
+				"original": "SAKURA",
+				"img": "https://telegra.ph/file/dcc8c6088f961da9dfb2b.jpg",
+				"dica": "PERSONAGEM"
+				},
+				{
+				"original": "MADARA",
+				"img": "https://telegra.ph/file/f55617e9654584c8346f5.jpg",
+				"dica": "PERSONAGEM"
+				},
+				{
+				"original": "ITACHI",
+				"img": "https://telegra.ph/file/34bb04769bcaf25ffe193.jpg",
+				"dica": "PERSONAGEM"
+				},
+				{
+					"original": "NEZUKO",
+					"img": "https://telegra.ph/file/18720a2c802ee5b90d467.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "ZENITSU",
+					"img": "https://telegra.ph/file/9e4567d6ec2e4b5dc59cc.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "MIYO",
+					"img": "https://telegra.ph/file/288c10e4b332b6ed46ef6.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "HINODE",
+					"img": "https://telegra.ph/file/4fee452f13ab7357f22d9.jpg",
+					"dica": "PERSONAGEM"
+				},
+		
+				{
+					"original": "MIKASA",
+					"img": "https://telegra.ph/file/5244608760f2c001ff39e.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "LEVI",
+					"img": "https://telegra.ph/file/0796c8bf80ab2ddb9c09e.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "EREN",
+					"img": "https://telegra.ph/file/40f9f6c23e7d48eaf59d9.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "ARMIN",
+					"img": "https://telegra.ph/file/40f9f6c23e7d48eaf59d9.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "JEAN",
+					"img": "https://telegra.ph/file/4738e5636c40b2c405737.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "HISTORIA",
+					"img": "https://telegra.ph/file/277c7464fad5f5549c5ff.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "ANNIE",
+					"img": "https://telegra.ph/file/8309495851f84b2ddcb2a.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "REINER",
+					"img": "https://telegra.ph/file/65726e7c17524659f813a.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "TOMIOKA",
+					"img": "https://telegra.ph/file/e124f87fae71b1aae4ff9.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "ASTA",
+					"img": "https://telegra.ph/file/b7b37b79e1da45e9bc913.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "NOELLE",
+					"img": "https://telegra.ph/file/a1c9d371e6e32914b7bf1.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "OCHACO",
+					"img": "https://telegra.ph/file/6cce9d9180769b62cb04e.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "HIMIKO",
+					"img": "https://telegra.ph/file/33637e4009a0575c66159.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "TSUYU",
+					"img": "https://telegra.ph/file/a37d733b55305fb2ee099.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "SHOTO",
+					"img": "https://telegra.ph/file/02d783d0f9694474160dd.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "IZUKO",
+					"img": "https://telegra.ph/file/be686d8c19ef9289d4cbc.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "KATSUKI",
+					"img": "https://telegra.ph/file/be686d8c19ef9289d4cbc.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "KASUMA",
+					"img": "https://telegra.ph/file/12deda5db9d0b600cc3a2.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "MEGUMIN",
+					"img": "https://telegra.ph/file/21769e4cff4ddcc9a28d7.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "AQUA",
+					"img": "https://telegra.ph/file/f1d83deac335d83339fed.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "SUBARU",
+					"img": "https://telegra.ph/file/4be9844aae79d7142fa4b.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "PETRA",
+					"img": "https://telegra.ph/file/317823553e3ae0c7c6c6d.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "REM",
+					"img": "https://telegra.ph/file/bcffb6ac47d5c9a750dae.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "FELIX",
+					"img": "https://telegra.ph/file/37a6bdfbc8588104da74d.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "OTTO",
+					"img": "https://telegra.ph/file/abcc3c23c352a5a637325.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "FREDERICA",
+					"img": "https://telegra.ph/file/190eb95737802c66ee13c.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "MELIODAS",
+					"img": "https://telegra.ph/file/23f3798d48d06dabff82a.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "DIANE",
+					"img": "https://telegra.ph/file/b77bf17e5270e121c6919.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "BAN",
+					"img": "https://telegra.ph/file/220f855f6f7bac2181cd3.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "HARLEQUIN",
+					"img": "https://telegra.ph/file/fd3c7036e838d371a293a.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "GOWTHER",
+					"img": "https://telegra.ph/file/bc75736c117a4f275143c.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "MERLIN",
+					"img": "https://telegra.ph/file/eada815d1f3b5478827ce.jpg",
+					"dica": "PERSONAGEM"
+				},
+				{
+					"original": "ESCANOR",
+					"img": "https://telegra.ph/file/658f2a4fcf727464c1e5b.jpg",
+					"dica": "PERSONAGEM"
+     }
+    ]
+}

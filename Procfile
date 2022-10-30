@@ -1,0 +1,1 @@
+worker: sh satoru.sh

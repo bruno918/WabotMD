@@ -1,0 +1,15 @@
+[
+{"result":"https://opedyboy.sirv.com/Amv/eren.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/Anime%20Edit%20_%20%5BAMV%5D%20_%20Zero%20Two%20%F0%9F%92%95.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/Crazy%20In%20My%20Mind%20-%20My%20Hero%20Academia%20%5BAMV_Edit%5D.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/Death%20Note%20_Kira_%20-%20My%20Ordinary%20Life%20%5BEdit_AMV%5D%20_%20Quick!.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/Demon%20Slayer%20%5BFlow%20Edit%5D.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/Graves%20-%20Naruto%20Shippuden%20%5BAMV_Edit%5D.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/Madara%20Uchiha%20Badass%20Edit%20-%20Nemesis%20%20%5BAMV_EDIT%5D%20_Quick_%20!.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/Mikey%20-%20Tokyo%20Revengers%20-%20Manjiro%20Sano%20%5BEdit_AMV%5D.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/VID-20210714-WA0170.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/VID-20210714-WA0172.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/VID-20210714-WA0173.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/y2mate.com%20-%20L%20E%20V%20I%20T%20A%20T%20I%20N%20G%20%20EditAMV_720p.mp4"},
+{"result":"https://opedyboy.sirv.com/Amv/%EF%BC%A7%EF%BC%AF%EF%BC%AA%EF%BC%AF%20%EF%BC%A5%EF%BC%A4%EF%BC%A9%EF%BC%B4%5B%EF%BC%A2%EF%BC%A5%EF%BC%A7%EF%BC%A7%EF%BC%A9%EF%BC%AE%5D%20preset.mp4"}
+]
