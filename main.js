@@ -4923,25 +4923,18 @@ ${cidades}\n`);
             quoted: fcarrinho,
           });
         }
+
         break;
-      case "instadono":
+      case "igdono":
         responder("segue esse carente ai\n\ninstagram.com/b_r_u_n_o76");
         break;
-      case "gpofc":
+      case "gpbot":
         responder("https://chat.whatsapp.com/HeMepOb2ltNIJPC8vXpgyI");
-        break;
-
-        {
-        }
+        break;    
       case "musicamenu":
         {
           texto = `🄱🄴🄼 🅅🄸🄽🄳🄾 🄰🄾 🄼🄴🄽🅄
       
-\`\`\`Dono: Bruno\`\`\`
-\`\`\`Prefixo: *\`\`\`
-\`\`\`Que me por em grupos?\`\`\`
-\`\`\`Contate meu dono!\`\`\`
-
 ✞︎ \`\`\`lyric\`\`\`
 ♡︎ \`\`\`magyn\`\`\`
 ❦︎ \`\`\`kamaitachi\`\`\`
@@ -4953,9 +4946,84 @@ ${cidades}\n`);
 ❦︎ \`\`\`dri\`\`\`
 ✞︎ \`\`\`motta\`\`\`
 `;
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
         }
         break;
+ 
+            case "nsfwmenu":
+              {
+                texto = `🄱🄴🄼 🅅🄸🄽🄳🄾 🄰🄾 🄼🄴🄽🅄
+            
+      ✞︎ \`\`\`nsfwloli\`\`\`
+      ♡︎ \`\`\`ahegao\`\`\`
+      ❦︎ \`\`\`ass\`\`\`
+      ✞︎ \`\`\`bdsm\`\`\`
+      ♡︎ \`\`\`blowjob\`\`\`
+      ❦︎ \`\`\`cuckold\`\`\`
+      ✞︎ \`\`\`ero\`\`\`
+      ♡︎ \`\`\`femdom\`\`\`
+      ❦︎ \`\`\`foot\`\`\`
+      ✞︎ \`\`\`gangbang\`\`\`
+      ♡︎ \`\`\`glasses\`\`\`
+      ❦︎ \`\`\`hentai\`\`\`
+      ✞︎ \`\`\`jahy\`\`\`
+      ♡︎ \`\`\`manga\`\`\`
+      ❦︎ \`\`\`masturbation\`\`\`
+      ✞︎ \`\`\`neko\`\`\`
+      ♡︎ \`\`\`orgy\`\`\`
+      ❦︎ \`\`\`panties\`\`\`
+      ✞︎ \`\`\`pussy\`\`\`
+      ♡︎ \`\`\`neko2\`\`\`
+      `;
+      let buttons = [
+        {
+          buttonId: "gpbot",
+          buttonText: { displayText: "GRUPO 📞" },
+          type: 1,
+        },
+        {
+          buttonId: "owner",
+          buttonText: { displayText: "DONO 😎" },
+          type: 1,
+        },
+        {
+          buttonId: "igdono",
+          buttonText: { displayText: "INSTA  🌆" },
+          type: 1,
+        },
+      ];
+      await satoru.sendButtonText(
+        m.chat,
+        buttons,
+        texto,
+        'by Brunoww',
+        fcarrinho
+      );
+              }
+              break;
 
       case "dlmenu":
         {
@@ -4973,8 +5041,32 @@ ${cidades}\n`);
 ♫  ︎︎︎\`\`\`yts\`\`\`
 ☾ ︎︎︎︎\`\`\`igdl\`\`\``;
 
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
-        }
+   
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
+}
         break;
 
       case "funmenu":
@@ -5005,7 +5097,31 @@ ${cidades}\n`);
 ♔ \`\`\`par\`\`\`
 `;
 
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
         }
         break;
       case "games":
@@ -5031,7 +5147,31 @@ ${cidades}\n`);
 ♕ \`\`\`warzone\`\`\`
 ♫ ︎\`\`\`jogosgratis\`\`\`
  `;
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+         
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
         }
         break;
       case "ferramentas":
@@ -5062,7 +5202,31 @@ ${cidades}\n`);
   ✞ \`\`\`tinyurl\`\`\`
   `;
 
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+
+  let buttons = [
+    {
+      buttonId: "gpbot",
+      buttonText: { displayText: "GRUPO 📞" },
+      type: 1,
+    },
+    {
+      buttonId: "owner",
+      buttonText: { displayText: "DONO 😎" },
+      type: 1,
+    },
+    {
+      buttonId: "igdono",
+      buttonText: { displayText: "INSTA  🌆" },
+      type: 1,
+    },
+  ];
+  await satoru.sendButtonText(
+    m.chat,
+    buttons,
+    texto,
+    'by Brunoww',
+    fcarrinho
+  );
         }
         break;
       case "stickers":
@@ -5100,7 +5264,31 @@ ${cidades}\n`);
 ❦︎ \`\`\`ttp6\`\`\`
 `;
 
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+        
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
         }
         break;
       case "grupomenu":
@@ -5129,7 +5317,31 @@ ${cidades}\n`);
 ♪ \`\`\`delvoto\`\`\`
 `;
 
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
         }
         break;
 
@@ -5151,7 +5363,31 @@ ${cidades}\n`);
 ✞ ︎\`\`\`listblockcmd︎ ︎\`\`\`
 ♕︎ ︎\`\`\`antipv︎ ︎\`\`\`
 `;
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+       
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
         }
         break;
 
@@ -5188,7 +5424,31 @@ ${cidades}\n`);
 ♡ \`\`\`waifu\`\`\` 
 ✞ \`\`\`cosplay\`\`\``;
 
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+        
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
         }
         break;
       case "textpro":
@@ -5213,7 +5473,31 @@ ${cidades}\n`);
 ✞ \`\`\`blackpink\`\`\`
 ❦ \`\`\`verao\`\`\`
 ♡ \`\`\`devil\`\`\``;
-          satoru.sendMessage(m.chat, { text: texto }, { quoted: fcarrinho });
+      
+let buttons = [
+  {
+    buttonId: "gpbot",
+    buttonText: { displayText: "GRUPO 📞" },
+    type: 1,
+  },
+  {
+    buttonId: "owner",
+    buttonText: { displayText: "DONO 😎" },
+    type: 1,
+  },
+  {
+    buttonId: "igdono",
+    buttonText: { displayText: "INSTA  🌆" },
+    type: 1,
+  },
+];
+await satoru.sendButtonText(
+  m.chat,
+  buttons,
+  texto,
+  'by Brunoww',
+  fcarrinho
+);
         }
 
         break;
