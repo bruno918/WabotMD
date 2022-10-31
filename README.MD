@@ -1,7 +1,7 @@
 # WabotMD
 
 
-![Size](https://img.shields.io/github/issues/bruno918/WabotMD?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/bruno918/WabotMD/total)
 ![Starts](https://img.shields.io/github/stars/bruno918/WabotMD)
 ![License](https://img.shields.io/github/license/bruno918/WabotMD)
 
