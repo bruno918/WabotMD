@@ -1,26 +1,4 @@
- /*
- Creditozinhos 
- Pra mim, bruno...
- XEON : https://github.com/DGXeon/CheemsBot-MD2
- DikaArdnt: https://github.com/DikaArdnt
- MhankBarBar:  https://github.com/MhankBarBar
- Pro carinha da baileys tbm pq ele é foda!!!
- 
- Agradecimentos ao Breno/Sayo! Sem ele eu provavelmente já teria desistido dos bots...
 
- Ao Causs tbm, me ajudou muito no início 
-
- Créditos a mim pela satoru-api 😃
- 
- =====>>>>> Uso gratuito porém, deixe uma estrela no repositório ⭐
- =====>>>>> Para copiar um comando deixe menção a mim, brunoww 
-
- ======>>>> Esse tempo possui licença, então estou no direito de reinvindicar qualquer coisa, se eu descobrir alguém revendendo ou copiando sem créditos, tomarei as devidas medidas...
-
- Link oficial: https://github.com/bruno918/wabot
- Meu número: Wa.me/5555933005901 
- Doações pix: brunoleal7278@gmail.com
-*/
 require('./settings')
 const { default: satoruConnect, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 
