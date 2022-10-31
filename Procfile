@@ -1,1 +1,1 @@
-worker: sh satoru.sh
+worker: sh start.sh
