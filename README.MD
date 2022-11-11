@@ -98,10 +98,10 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 😄 Seja um dos contribuidores<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Quer fazer parte desse projeto? Clique [AQUI](https://wa.me/5555933005901) e leia como contribuir.
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
 [⬆ Voltar ao topo](#WabotMD)<br>
