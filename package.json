@@ -48,7 +48,7 @@
     "node-fetch": "^2.6.1",
     "node-webpmux": "^3.1.0",
     "os": "^0.1.2",
-    "parse-ms": "^2.1.0",
+    "parse-ms": "^3.0.0",
     "path": "^0.12.7",
     "perf_hooks": "0.0.1",
     "pino": "^7.0.5",
