@@ -20,7 +20,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@phaticusthiccy/open-apis": "^1.8.5",
     "@vitalets/google-translate-api": "^9.0.0",
-    "awesome-phonenumber": "^2.64.0",
+    "awesome-phonenumber": "^3.4.0",
     "axios": "^1.1.3",
     "chalk": "^4.1.2",
     "chalkercli": "^1.6.4",
