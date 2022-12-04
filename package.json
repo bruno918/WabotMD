@@ -32,7 +32,7 @@
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.1.0",
     "g-i-s": "^2.1.6",
     "google-it": "^1.6.2",
     "got": "^11.8.3",
