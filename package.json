@@ -22,7 +22,7 @@
     "@vitalets/google-translate-api": "^8.0.0",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
-    "chalk": "^4.1.2",
+    "chalk": "^5.1.2",
     "chalkercli": "^1.6.4",
     "cheerio": "^1.0.0-rc.10",
     "child_process": "^1.0.2",
