@@ -38,7 +38,7 @@
     "got": "^11.8.3",
     "human-readable": "^0.2.1",
     "jimp": "^0.16.2",
-    "jsdom": "^16.4.0",
+    "jsdom": "^21.1.0",
     "line-reader": "^0.4.0",
     "lowdb": "^2.1.0",
     "mal-scraper": "^2.11.4",
